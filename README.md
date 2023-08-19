@@ -1,2 +1,2 @@
 # Git_course
-for version control course 
+For version control course.
